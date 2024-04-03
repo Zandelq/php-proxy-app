@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>PHP-Proxy</title>
+<title>Instellar</title>
 
 <meta name="generator" content="php-proxy.com">
 <meta name="version" content="<?=$version;?>">
